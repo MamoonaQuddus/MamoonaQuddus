@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Currently Building and exploring AI-driven projects<br>👯 Open to collaborating on AI, NLP, and research-related projects<br>🌱 Learning advanced NLP, Generative AI, and Python-based solutions<br>📫 Reach me a mamoonaquddus@gmail.com<br>⚡ Fun fact: I enjoy creating and editing YouTube videos! </p>
+<p align="left">🔭 Currently Building and exploring AI-driven projects<br>👯 Open to collaborating on AI, NLP, and research-related projects<br>🌱 Learning advanced NLP, Generative AI, and Python-based solutions<br>📫 Reach me at mamoonaquddus@gmail.com<br>⚡ Fun fact: I enjoy creating and editing YouTube videos! </p>
 
 ###
 

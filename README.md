@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Software Engineer and web developer.I have a passion for building innovative solutions and constantly exploring emerging technologies. I'm always excited to take on new challenges and collaborate on inspiring projects!</p>
+<p align="left">Enthusiastic Software Engineer with a growing focus on Artificial Intelligence and Web Development. Exploring Machine Learning, NLP, and Generative AI, and eager to apply these technologies to create meaningful solutions in education, healthcare, agriculture, space tech, and digital experiences. Always excited to take on new challenges, collaborate on inspiring projects, and contribute to research and AI initiatives!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Ecommerce website<br>👯 I’m looking to  Creative web development projects<br>🌱 I’m currently learning Python and Generative AI<br>💬 Ask me about html , CSS, react, JavaScript, SQL,  AI<br>📫 How to reach me mamoonaquddusqadri@gmail.com<br>⚡ Fun fact I love to create/edit YouTube videos.</p>
+<p align="left">🔭 Currently Building and exploring AI-driven projects<br>👯 Open to collaborating on AI, NLP, and research-related projects<br>🌱 Learning advanced NLP, Generative AI, and Python-based solutions<br>📫 Reach me a mamoonaquddus@gmail.com<br>⚡ Fun fact: I enjoy creating and editing YouTube videos! </p>
 
 ###
 
@@ -34,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
